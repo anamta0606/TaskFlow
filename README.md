@@ -1,16 +1,40 @@
-# React + Vite
+TaskFlow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+About the Project  
+This project is a responsive Task Management Landing Page built using React and Vite.
 
-Currently, two official plugins are available:
+It provides a modern and user-friendly interface with task management features, testimonials, pricing plans, and a task dashboard preview.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Features
 
-## React Compiler
+- Responsive design
+- Task dashboard preview
+- Features section
+- Testimonials section
+- Pricing plans
+- Modern and user-friendly interface
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Technologies Used
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- JavaScript
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Project Files
+
+- `App.jsx` – Main application structure and page sections
+- `App.css` – Styling and responsive layout
+- `index.css` – Global styling
+- `main.jsx` – React application entry point
+- `hero.png` – Hero section image
+
+How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Install the required dependencies using `npm install`.
+4. Run the project using `npm run dev`.
+
+Author  
+Anamta Khurram
